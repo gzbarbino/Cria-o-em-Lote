@@ -1,0 +1,5 @@
+{
+  "name": "PPTX Bulk Creator",
+  "description": "Uma ferramenta Micro-SaaS client-side para gerar slides do PowerPoint em massa a partir de um modelo e um arquivo CSV, preservando a formatação original.",
+  "requestFramePermissions": []
+}
